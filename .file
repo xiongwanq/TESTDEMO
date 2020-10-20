@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<projectDescription>  
+    <name>testDemo</name>  
+    <comment>my first testDemo project</comment>  
+    <projects>  
+    </projects>      
+    <buildSpec>
+       <buildCommand>
+          <name>org.eclipse.wst.validation.validationbuilder</name>
+          <arguments>
+          </arguments>
+       </buildCommand>
+       <buildCommand>
+          <name>org.eclipse.dltk.core.scriptbuilder</name>
+          <arguments>
+          </arguments>
+       </buildCommand>
+       <buildCommand>
+          <name>com.aptana.ide.core.unifiedBuilder</name>
+          <arguments>
+          </arguments>
+       </buildCommand>
+    </buildSpec>
+    <natures>  
+        <nature>com.aptana.projects.webnature</nature>
+       <nature>org.eclipse.php.core.PHPNature</nature> 
+    </natures>  
+    <linkedResources>  
+        <link>  
+            <name>JavaSrc</name>  
+            <type>2</type>  
+            <location>D:/workspace/study/petstore/src</location>  
+        </link>  
+    </linkedResources>  
+</projectDescription> 
